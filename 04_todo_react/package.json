@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://tenpappy.github.io/React_jak/04_todo_react",
+  "homepage": "https://tenpappy.github.io/React_jak",
   "eslintConfig": {
     "extends": [
       "react-app",
