@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://tenpappy.github.io/React/",
+  "homepage": "https://tenpappy.github.io/React/04_todo_react",
   "eslintConfig": {
     "extends": [
       "react-app",
