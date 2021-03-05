@@ -56,7 +56,7 @@ export const App = () => {
       />
       {incompleteTodos.length >= 5 && (
         <p style={{ color: "red" }}>
-          登録できるタスクは５個までだよー消化しろー
+          登録できるタスクは５個までだよー消化しろー！
         </p>
       )}
       <IncompleteTodos
